@@ -1,0 +1,22 @@
+Hi there! I am a very passionate programmer with hands on experience in
+Python Django, Ruby on Rails, JavaScript MEAN stack and other front end
+technologies from a coding bootcamp. I currently volunteer at 
+Police and Fire: the fallen heroes as a Front End Web Developer.
+
+I self-studied general computer science in order to become a better 
+developer, I have good understanding in computer system(CPU, memory model,
+bit-level operation, etc), algorithms, and data structures. I practiced 
+algorithms a lot at Codewars and rank as 'competent' / 'kyu 4'.
+
+I love to communicate and always try to be helpful, and I am a very positive 
+person, I always bring positive energy to the team. 
+
+I see this is a very good opportunity for me to sharpen my skills in web development
+and programming, I am striving to get more experience in real production environment.
+
+Links:
+portfolio: https://qhuang872.github.io
+E-commerce website I built from scratch: https://aromasenseusa.com/
+Current Website I am working on as core developer: https://thefallenheroes.org/
+
+
